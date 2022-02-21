@@ -4,6 +4,6 @@ Project "Procrastinators-ideas"
 
 ---
 
-## Link to GitPages:
+## Link:
 
-[To view:](https://tatiananikulina.github.io/Procrastinators-ideas/)
+[Procrastinators-ideas](https://tatiananikulina.github.io/Procrastinators-ideas/)
